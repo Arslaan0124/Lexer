@@ -1,0 +1,38 @@
+< 0, Keyword  >
+< <> , Operator  >
+< { , Punctuation  >
+< 1, Keyword  >
+< 2 , Identifier  >
+< =:= , Operator  >
+< 10 , Number  >
+< : , Operator  >
+< 3, Keyword  >
+< 4 , Identifier  >
+< [ , Punctuation  >
+< 10 , Number  >
+< ] , Punctuation  >
+< 5, Keyword  >
+< < , Operator  >
+< != , Operator  >
+< 0 , Number  >
+< 6 , Identifier  >
+< => , Operator  >
+< 7.5 , Number  >
+< : , Operator  >
+< 2 , Identifier  >
+< ++ , Operator  >
+< > , Operator  >
+< { , Punctuation  >
+< 7, Keyword  >
+< < , Operator  >
+< 8 , Identifier  >
+< =:= , Operator  >
+< 2.2E+5 , Number  >
+< > , Operator  >
+< 8 , Identifier  >
+< == , Operator  >
+< 1.2E-3 , Number  >
+< >> , Operator  >
+< :: , Operator  >
+< } , Punctuation  >
+< } , Punctuation  >

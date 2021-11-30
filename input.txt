@@ -1,0 +1,10 @@
+int mian <>
+{
+float a_ =:= 10:
+bool b_b [10] 
+loop <a!=0; a_a =>7.5 : a_++>{
+agar <_a =:= 2.2E+5>
+_a == 1.2E-3
+cin>>a::
+} 
+}
